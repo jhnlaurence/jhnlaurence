@@ -44,14 +44,17 @@ All Credits to https://github.com/alsiam/alsiam, this is his template
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="300" src="/giphy.gif" alt="Coding gif" />
-  
+<p style="display:flex; flex-wrap: wrap; justify-content:space-between;">
+<!-- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe> -->
+    <img align="right" style="order: 2;" width="300" src="/giphy.gif" alt="Coding gif" />
+
+  <div style="order:1;">
  ✌️ &emsp; Enjoy to do programming and reading <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: lebarioslaurence@gmail.com <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/jhnlaurence/jhnlaurence/issues)
-
+  </div>
 </p>
 
 <br/>
