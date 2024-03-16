@@ -11,7 +11,7 @@ All Credits to https://github.com/alsiam/alsiam, this is his template
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">John Laurence</a></b>
+                <b><a target="_blank" href="https://jhnlaurence.wixsite.com/portfolio">John Laurence</a></b>
         </samp>
 </h3>
 
@@ -45,7 +45,7 @@ All Credits to https://github.com/alsiam/alsiam, this is his template
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="300" src="/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and reading <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
